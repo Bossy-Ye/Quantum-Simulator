@@ -1,2 +1,2 @@
 # Quantum-Simulator
-A Quantum simulator
+A Quantum simulator written in C++
